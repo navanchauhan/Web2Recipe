@@ -20,11 +20,11 @@ optional arguments:
 
 #### Simple
 
-![non-stylized](./assets/ss1.png, "Non-Stylised")
+![non-stylized](https://raw.githubusercontent.com/navanchauhan/Web2Recipe/master/assets/ss1.png, "Non-Stylised")
 
-![stylized](./assets/ss2.png, "Stylised")
+![stylized](https://raw.githubusercontent.com/navanchauhan/Web2Recipe/master/assets/ss2.png, "Stylised")
 
-![stylized-mobile](./assets/ss3.png, "Stylised (Mobile)")
+![stylized-mobile](https://raw.githubusercontent.com/navanchauhan/Web2Recipe/master/assets/ss3.png, "Stylised (Mobile)")
 
 ### Requirements
 
