@@ -22,7 +22,11 @@ optional arguments:
 
 ![non-stylized](https://raw.githubusercontent.com/navanchauhan/Web2Recipe/master/assets/ss1.png)
 
+#### Stylized
+
 ![stylized](https://raw.githubusercontent.com/navanchauhan/Web2Recipe/master/assets/ss2.png)
+
+#### Stylized (Mobile)
 
 ![stylized-mobile](https://raw.githubusercontent.com/navanchauhan/Web2Recipe/master/assets/ss3.png)
 
